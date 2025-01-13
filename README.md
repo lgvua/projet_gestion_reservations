@@ -47,18 +47,13 @@ java -jar Application_projet_lkm.jar
 ## Principales fonctionnalités 
 
 ### Gestion des clients  
-- **Ajouter un client :**  
-  - Informations requises : nom, prénom, email, adresse, téléphone.  
-- **Modifier un client :**  
-  - Mise à jour des informations : nom, prénom, email, adresse, téléphone.  
+- **Ajouter un client :** Informations requises : nom, prénom, email, adresse, téléphone.  
+- **Modifier un client :** Mise à jour des informations : nom, prénom, email, adresse, téléphone.  
 - **Supprimer un client.**  
-- **Exporter les données des clients au format Excel.**  
 
 ### Gestion des conseillers  
-- **Ajouter un conseiller :**  
-  - Informations requises : nom, prénom, email, téléphone.  
-- **Modifier un conseiller :**  
-  - Mise à jour des informations : nom, prénom, email, téléphone.  
+- **Ajouter un conseiller :** Informations requises : nom, prénom, email, téléphone.  
+- **Modifier un conseiller :** Mise à jour des informations : nom, prénom, email, téléphone.  
 - **Supprimer un conseiller.**  
 
 ### Gestion des vols et réservations  
@@ -66,23 +61,6 @@ java -jar Application_projet_lkm.jar
 - **Ajouter un vol.**  
 - **Supprimer une réservation.**  
 
-### Informations sur les réservations  
-Les détails des réservations incluent :  
-- **Statut :** statut de la réservation.  
-- **Dates :**  
-  - Date de réservation, paiement, départ, arrivée (format ISO : `YYYY-MM-DD"T"HH:MM:SS`).  
-- **Informations réservateur :**  
-  - Nom, prénom, email, téléphone.  
-- **Informations vol :**  
-  - Type de vol, compagnie aérienne, lieux de départ et d'arrivée.  
-- **Conseiller associé :**  
-  - Nom, prénom, email, téléphone.  
-- **Client associé :**  
-  - Nom, prénom, email, téléphone.  
-
-## Relation entre entités  
-- Une réservation est liée à un **vol**, un **conseiller**, et un **client** via leurs identifiants respectifs (**ID**).
-  
 ## Modèle conceptuel de données
 <img src="MCD.svg" alt="drawing" width="500"/>
 
