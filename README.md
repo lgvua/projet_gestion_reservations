@@ -39,8 +39,6 @@ Si votre système d'exploitation ne reconnaît pas ce fichier comme un programme
 java -jar Application_projet_lkm.jar
 ```
 
-# Système de gestion des réservations  
-
 ## Principales fonctionnalités 
 
 ### Gestion des clients  
