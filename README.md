@@ -67,7 +67,7 @@ java -jar Application_projet_lkm.jar
 <img src="file2.png" alt="drawing" width="500"/>
 <img src="file3.png" alt="drawing" width="500"/>
 
-# Compiler à partir des sources
+# Informations de compilations
 Pour compiler et exécuter le programme, assurez-vous d’avoir les éléments suivants (les deux derniers se trouvent dans le dossier `lib`) :  
 1. **Java SDK 23 :** Installez le kit de développement Java version 23 ou supérieure.  
 2. **Connector PostgreSQL :** Le driver PostgreSQL, nécessaire pour la connexion à la base de données.  
