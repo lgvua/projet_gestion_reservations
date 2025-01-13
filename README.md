@@ -6,7 +6,7 @@ Ce projet consiste en la création d'un système de gestion des réservations de
 - **Docker** : Assurez-vous que Docker est installé sur votre machine.
 Vous pouvez télécharger Docker ici : [Docker](https://www.docker.com/products/docker-desktop).
 - **Java 8 ou supérieur pour l'exécution** : L'application Java nécessite une version de Java compatible.
-Vous pouvez télécharger Java ici : [Java](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html).
+Vous pouvez télécharger Java ici : [Java]([https://www.oracle.com/java/technologies/javase-jdk8-downloads.html](https://www.java.com/fr/download/manual.jsp)).
 
 ## Étapes d'installation
 
@@ -44,4 +44,11 @@ java -jar Application_projet_lkm.jar
 
 ## Fonctionnalités principales
 
+
+
 ## Images
+<img src="file1.png" alt="drawing" width="500"/>
+<img src="file2.png" alt="drawing" width="500"/>
+<img src="file3.png" alt="drawing" width="500"/>
+
+## Compiler les sources
