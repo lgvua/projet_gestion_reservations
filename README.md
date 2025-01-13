@@ -71,4 +71,4 @@ java -jar Application_projet_lkm.jar
 Pour compiler et exécuter le programme, assurez-vous d’avoir les éléments suivants (les deux derniers se trouvent dans le dossier `lib`) :  
 1. **Java SDK 23 :** Installez le kit de développement Java version 23 ou supérieure.  
 2. **Connector PostgreSQL :** Le driver PostgreSQL, nécessaire pour la connexion à la base de données.  
-3. **LGoodDateTimePicker :** Bibliothèque utilisée pour la gestion des sélections de dates et heures.  
+3. **LGoodDatePicker :** Bibliothèque utilisée pour la gestion des sélections de dates et heures.  
