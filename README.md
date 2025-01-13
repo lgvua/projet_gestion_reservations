@@ -68,7 +68,7 @@ java -jar Application_projet_lkm.jar
 <img src="file3.png" alt="drawing" width="500"/>
 
 # Informations de compilations
-Pour compiler et exécuter le programme, assurez-vous d’avoir les éléments suivants (les deux derniers se trouvent dans le dossier `lib`) :  
+Pour compiler et exécuter le programme à partir des sources, assurez-vous d’avoir les éléments suivants (les deux derniers se trouvent dans le dossier `lib`) :  
 1. **Java SDK 23 :** Installez le kit de développement Java version 23 ou supérieure.  
 2. **Connector PostgreSQL :** Le driver PostgreSQL, nécessaire pour la connexion à la base de données.  
 3. **LGoodDatePicker :** Bibliothèque utilisée pour la gestion des sélections de dates et heures.  
