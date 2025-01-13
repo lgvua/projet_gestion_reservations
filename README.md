@@ -44,7 +44,11 @@ java -jar Application_projet_lkm.jar
 
 ## Fonctionnalités principales
 
+## Modèle conceptuel de données
+<img src="MCD.svg" alt="drawing" width="500"/>
 
+## Modèle physique de données
+<img src="MPD.png" alt="drawing" width="500"/>
 
 ## Images
 <img src="file1.png" alt="drawing" width="500"/>
