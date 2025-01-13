@@ -12,11 +12,11 @@ Vous pouvez télécharger Java ici : [Java](https://www.java.com/fr/download/man
 Clonez le repository GitHub sur votre machine locale :
 
 ```bash
-git clone https://github.com/lgvua/gestion-reservations-vols.git
+git clone https://github.com/lgvua/projet_gestion_reservations.git
 ```
 
 ```bash
-cd gestion-reservations-vols
+cd projet_gestion_reservations
 ```
 
 ### 2. Environnement Docker
