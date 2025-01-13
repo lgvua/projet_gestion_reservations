@@ -3,7 +3,7 @@
 - **Docker** : Assurez-vous que Docker est installé sur votre machine.
 Vous pouvez télécharger Docker ici : [Docker](https://www.docker.com/products/docker-desktop).
 - **Java 8 ou supérieur pour l'exécution** : L'application Java nécessite une version de Java compatible.
-Vous pouvez télécharger Java ici : [Java]([https://www.oracle.com/java/technologies/javase-jdk8-downloads.html](https://www.java.com/fr/download/manual.jsp).
+Vous pouvez télécharger Java ici : [Java](https://www.java.com/fr/download/manual.jsp).
 
 ## Étapes d'installation
 
