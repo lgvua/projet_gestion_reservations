@@ -15,14 +15,17 @@ Clonez le repository GitHub sur votre machine locale :
 
 ```bash
 git clone https://github.com/lgvua/gestion-reservations-vols.git
+```bash
 cd travel-booking-system
 ```
 
 ### 2. Environnement Docker
 
 Exécutez la commande suivante pour démarrer l'environnement Docker :
+
 ```bash
 docker-compose up -d
+```
 
 Cette commande téléchargera l'image de la base de données PostgreSQL (si elle n'est pas déjà présente) et lancera un conteneur contenant la base de données, tout en initialisant la base de données à l'aide du fichier init.SQL .
 
@@ -34,6 +37,7 @@ Si votre système d'exploitation ne reconnaît pas ce fichier comme un programme
 
 ```bash
 java -jar Application_projet_lkm.jar
+```
 
 ## Fonctionnalités principales
 
