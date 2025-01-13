@@ -3,9 +3,9 @@ Ce projet consiste en la création d'un système de gestion des réservations de
 
 # Installation et Exécution
 ## Prérequis
-- **Docker** : Assurez-vous que Docker est installé sur votre machine. Vous pouvez télécharger Docker ici : [Docker](https://www.docker.com/products/docker-desktop).
+- **Docker** : Assurez-vous que Docker est installé sur votre machine.
+Vous pouvez télécharger Docker ici : [Docker](https://www.docker.com/products/docker-desktop).
 - **Java 8 ou supérieur pour l'exécution** : L'application Java nécessite une version de Java compatible.
-
 Vous pouvez télécharger Java ici : [Java](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html).
 
 ## Étapes d'installation
