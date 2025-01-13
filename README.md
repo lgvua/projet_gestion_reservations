@@ -27,7 +27,7 @@ Exécutez la commande suivante pour démarrer l'environnement Docker :
 docker-compose up -d
 ```
 
-Cette commande téléchargera l'image de la base de données PostgreSQL (si elle n'est pas déjà présente) et lancera un conteneur contenant la base de données, tout en initialisant la base de données à l'aide du fichier init.SQL .
+Cette commande téléchargera l'image de la base de données PostgreSQL (si elle n'est pas déjà présente) et lancera un conteneur contenant la base de données, tout en initialisant la base de données à l'aide du fichier init.sql (Les données dans ce fichier sont fictives et utilisées à des fins de test) .
 
 ### 3. Lancer l'application
 
