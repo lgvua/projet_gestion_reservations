@@ -1,3 +1,5 @@
+## Ce projet a été réalisé en groupe, composé de Luigi Vuachet, Kobla Legbedje et Moustapha Sarr.
+
 # Installation et Exécution
 ## Prérequis
 - **Docker** : Assurez-vous que Docker est installé sur votre machine.
